@@ -1,1 +1,1 @@
-# HybridScheme
+# Hybrid Scheme
